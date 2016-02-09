@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antonisucqueteso01sucq_0025.png"; bbox 0 0 2053 3257; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 236 930 1557 1102">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 236 930 1557 1102">
+     <span class='ocr_line' id='line_1_1' title="bbox 236 930 1557 1102; baseline -0.003 -14"><span class='ocrx_word' id='word_1_1' title='bbox 236 961 754 1087; x_wconf 80' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_2' title='bbox 822 930 824 934; x_wconf 78' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 893 960 1557 1102; x_wconf 59' lang='lat' dir='ltr'>PRIMVS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 441 1209 1377 1436">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 441 1209 1377 1436">
+     <span class='ocr_line' id='line_1_2' title="bbox 441 1209 1377 1436; baseline 0.001 -1"><span class='ocrx_word' id='word_1_4' title='bbox 441 1209 1377 1436; x_wconf 85' lang='lat' dir='ltr'><strong>VIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 7 1550 1913 1787">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 7 1550 1913 1787">
+     <span class='ocr_line' id='line_1_3' title="bbox 7 1550 1913 1787; baseline 0.005 -90"><span class='ocrx_word' id='word_1_5' title='bbox 7 1781 11 1787; x_wconf 80' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 116 1550 1726 1704; x_wconf 87' lang='lat' dir='ltr'><strong>INCIPIENTIVM·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1904 1557 1913 1562; x_wconf 61' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2 0 15 1341">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2 0 15 1341">
+     <span class='ocr_line' id='line_1_4' title="bbox 2 0 15 1341; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 11 1337 15 1341; x_wconf 67' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2 0 15 1025; x_wconf 44' lang='lat' dir='ltr'><strong>WFWW</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1 1027 16 1778">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1 1027 16 1778">
+     <span class='ocr_line' id='line_1_5' title="bbox 1 1027 16 1778; baseline 0 1479"><span class='ocrx_word' id='word_1_10' title='bbox 1 1027 16 1778; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
